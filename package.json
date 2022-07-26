@@ -1,5 +1,5 @@
 {
-  "name": "karan-changeset-test",
+  "name": "@geekykaran/karan-changeset-test",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:karanjthakkar/karan-changeset-test.git",
