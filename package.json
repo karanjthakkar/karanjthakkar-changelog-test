@@ -8,5 +8,9 @@
   "private": true,
   "dependencies": {
     "@changesets/cli": "^2.24.1"
+  },
+  "scripts": {
+    "version-packages": "changeset version",
+    "release": "changeset publish"
   }
 }
