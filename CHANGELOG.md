@@ -1,5 +1,11 @@
 # @geekykaran/karan-changeset-test
 
+## 1.1.1
+
+### Patch Changes
+
+- e261373: stuff 6
+
 ## 1.1.0
 
 ### Minor Changes
